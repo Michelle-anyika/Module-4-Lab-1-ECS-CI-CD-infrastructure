@@ -1,0 +1,5 @@
+template-file-path: templates/network.yaml
+parameters: {}
+tags:
+  Project: ecs-cicd-lab
+  ManagedBy: CloudFormation-GitSync
